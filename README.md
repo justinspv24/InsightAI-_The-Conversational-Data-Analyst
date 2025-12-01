@@ -1,11 +1,11 @@
 # InsightAI-_The-Conversational-Data-Analyst
 "Stop struggling with syntax. Start asking questions. Let the AI handle the code."
 
-📉 The Challenge
+## 📉 The Challenge
 
 Data analysis often hits a bottleneck: the translation of business questions into executable code. You have the raw data and the curiosity, but manually writing complex Pandas queries or debugging Matplotlib visualizations is time-consuming and prone to error. We often spend more time wrestling with syntax than actually interpreting the results.
 
-💡 The Approach
+##💡 The Approach
 
 InsightAI bridges the gap between natural language and data insights.
 
